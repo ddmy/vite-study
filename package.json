@@ -1,0 +1,25 @@
+{
+  "name": "vite-demo",
+  "version": "1.0.0",
+  "description": "> 简易版实现",
+  "main": "server.js",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddmy/vite-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ddmy/vite-study/issues"
+  },
+  "homepage": "https://github.com/ddmy/vite-study#readme"
+}
